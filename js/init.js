@@ -9,10 +9,10 @@
 // @ts-ignore
 firebase.initializeApp({
   apiKey: "AIzaSyBs8JTnQrXGFnFYjPugXb0Kx0LeRORVyys",
-  authDomain: "bdfpru.firebaseapp.com",
-  projectId: "bdfpru",
-  storageBucket: "bdfpru.appspot.com",
-  messagingSenderId: "230721641716",
-  appId: "1:230721641716:web:f1cb3eb47bc4d0bba9d2a1",
-  measurementId: "G-PK42NM2092"
+    authDomain: "bdfpru.firebaseapp.com",
+    projectId: "bdfpru",
+    storageBucket: "bdfpru.appspot.com",
+    messagingSenderId: "230721641716",
+    appId: "1:230721641716:web:f1cb3eb47bc4d0bba9d2a1",
+    measurementId: "G-PK42NM2092"
 });
