@@ -3,7 +3,7 @@ class MiFooter
   connectedCallback() {
     this.innerHTML = /* html */
       `<p>
-        &copy; 2022
+        &copy; 2023
         Ricardo Armando Machorro Reyes.
       </p>`;
   }
